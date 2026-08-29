@@ -1,7 +1,6 @@
-folium
 ultralytics
 paddlepaddle
 paddleocr
 opencv-python
 numpy
-lapx
+folium
