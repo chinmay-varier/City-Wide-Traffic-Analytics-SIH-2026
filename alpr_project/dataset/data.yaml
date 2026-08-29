@@ -1,0 +1,12 @@
+names:
+- '0'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolov8-number-plate-detection-w5fo8
+  url: https://universe.roboflow.com/blazingflames/yolov8-number-plate-detection-w5fo8/dataset/1
+  version: 1
+  workspace: blazingflames
+test: ../test/images
+train: ../train/images
+val: ../valid/images
