@@ -1,0 +1,7 @@
+camera_id,latitude,longitude,sector_name
+CAM_NORTH_01,12.9716,77.5946,North Junction
+CAM_NORTH_02,12.9750,77.5990,North Highway
+CAM_CENTRAL_01,12.9800,77.6050,Central Plaza
+CAM_SOUTH_01,12.9600,77.5900,South Gate
+CAM_EAST_01,12.9850,77.6120,East Express
+CAM_EAST_02,12.9900,77.6200,East Bypass

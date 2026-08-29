@@ -1,0 +1,18 @@
+# Shared virtual environment
+venv/
+
+# ALPR project — large/regenerable files
+alpr_project/dataset/
+alpr_project/runs/
+alpr_project/models/*.pt
+alpr_project/sample_videos/*.mp4
+alpr_project/output/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
+*.egg-info/
