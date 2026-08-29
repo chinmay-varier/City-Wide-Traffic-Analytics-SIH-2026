@@ -4,3 +4,4 @@ paddleocr
 opencv-python
 numpy
 folium
+lapx
