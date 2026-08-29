@@ -11,6 +11,13 @@ Installing Required Files
 pip install -r requirements.txt
 ```
 
+## Running Library Modules
+
+```bash
+cd alpr_project
+python -m src.main
+```
+
 ## Seeing Trajectory and Heatmap
 
 Based on some already loaded data, heatmap and trajectory can be 
