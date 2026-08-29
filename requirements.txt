@@ -4,3 +4,4 @@ paddlepaddle
 paddleocr
 opencv-python
 numpy
+lapx
