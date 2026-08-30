@@ -11,6 +11,16 @@ Installing Required Files
 pip install -r requirements.txt
 ```
 
+To Install the data set and sample video
+Extract the zip file from this google drive
+[Google Drive Link](https://drive.google.com/file/d/1-Qq7AWY4QVYRkVsBZj2RrdiPXxfgs_jB/view)
+
+-> After extraction move both the folders into the alpr_project directory
+
+
+<img width="193" height="323" alt="image" src="https://github.com/user-attachments/assets/233e0495-7088-41c7-9285-59e588689f41" />
+
+
 ## Seeing Trajectory and Heatmap
 
 Based on some already loaded data, heatmap and trajectory can be 
@@ -25,5 +35,6 @@ python .\Trajectory_Heatmap\main.py
 Reading License plate on a finetuned 45mins) OCR Model
 
 ```bash
-python .\alpr_project\src\main.py
+cd alpr_project
+python -m src.main
 ```
